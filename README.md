@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning JavaScript.
+How to reach me: gamerb46124@gmail.com
+Fun Fact: I'm the fourth in line out of 16 siblings.
